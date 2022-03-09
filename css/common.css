@@ -1,0 +1,21 @@
+img {
+    display: block;
+    width: 100%;
+}
+
+.header__nav .container {
+    @media (min-width: 600px);
+    display: flex;
+}
+.header__nav_menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1;
+    }
+
+    * картки *
+:root{
+    
+}
+
